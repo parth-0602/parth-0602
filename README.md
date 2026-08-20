@@ -150,7 +150,7 @@ I'm always open to discussing **AI, GenAI, DSA, software development, projects a
   <a href="https://github.com/parth-0602">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/parth-khurana-95146432a">
+  <a href="https://www.linkedin.com/in/parth-khurana-95146432a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
